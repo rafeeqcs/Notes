@@ -44,3 +44,4 @@ netstat -antup
 
 See ports listening here (notice TCP 1234 is not here) and start to listen on port 1234 - Ubuntu
 _https://github.com/rafeeqcs/Notes/blob/main/Untitled.png?raw=true
+
